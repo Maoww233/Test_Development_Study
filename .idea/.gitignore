@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\maoww\Desktop\福柜项目\我的资料\Test_Development_Study\第一次提交作业\Test_auto_study1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
